@@ -1,2 +1,3 @@
-# Qiskit-Fall-Fest-2022
-The two files contain code related to Quantum Support Vector Machine and Variational Quantum Circuit with added noise model
+# Noisy behavior of classification QML algorithm to study the accuracy and precision.
+The project had been carried out to investigate the performance of two most popular QML algorithm viz. QSVM and VQC in presence of noise. 
+Primarily four classes of noise had been considered viz. Depolarization, Damping, Bit Phase and Phase flip
